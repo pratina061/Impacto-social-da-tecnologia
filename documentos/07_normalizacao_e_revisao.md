@@ -1,6 +1,6 @@
 # Etapa 7 Normalização e revisão final
 
-## Solicitação
+## Solicitaçã
 
 Revise o conteúdo, as citações, as referências e a formatação antes da entrega.
 
